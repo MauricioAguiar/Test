@@ -10,7 +10,7 @@ package javaapplication1;
  *
  * @author Prontonet
  */
-public class JavaApplication1 {
+public class TocandoOterror {
 
     /**
      * @param args the command line arguments

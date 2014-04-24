@@ -16,6 +16,12 @@ public class UmaNovaClasse {
     
     public static void main(String[] args) {
         System.out.println("huehuehuehue");
+        
+        facaAlgo();
+    }
+    
+    public static void facaAlgo(){
+        System.out.println("Um método que faz algo");
     }
     
 }

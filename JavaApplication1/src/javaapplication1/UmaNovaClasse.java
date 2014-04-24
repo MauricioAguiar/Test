@@ -6,10 +6,16 @@
 
 package javaapplication1;
 
+import java.awt.SystemColor;
+
 /**
  *
  * @author Prontonet
  */
 public class UmaNovaClasse {
+    
+    public static void main(String[] args) {
+        System.out.println("huehuehuehue");
+    }
     
 }

@@ -16,6 +16,13 @@ public class UmaNovaClasse {
     
     public static void main(String[] args) {
         System.out.println("huehuehuehue");
+        soma();
+    }
+    
+    public static void soma(){
+        System.out.println(2+2);
     }
     
 }
+
+
